@@ -3,6 +3,7 @@ package richy.home.my.utils;
 public class MyClass {
 	Integer firstNumber;
 	String firstString;
+	String secondString;
 	public Integer getFirstNumber() {
 		return firstNumber;
 	}
